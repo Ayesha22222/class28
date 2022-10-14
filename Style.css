@@ -1,0 +1,116 @@
+
+/* ---------menu----------- */
+
+.logo img{
+   height:60px;
+}
+
+.about-section{
+    background-color: #f7f9ff;
+   
+}
+
+.nav-item{
+    text-align: right;
+}
+.about-section .image{
+    max-width: 100%;
+}
+
+.about-text{
+    margin-top: 200px;
+}
+
+.number-counter{
+    background-color: deepskyblue;
+    color: white;
+    
+}
+
+
+ul.our-primary-menu li a{
+	text-decoration: none;
+	display: inline-block;
+	padding: 10px 20px;
+	color: #111;
+	font-weight: 500;
+}
+
+
+/* ----------parsonal details-------- */
+
+.persona-about-text{
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+ /* ------praing---table---------- */
+
+
+
+.table .number{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(150, 151, 171);
+    border-radius: 50%;
+    
+}
+
+ .table{
+  background-color: #f7f9ff;
+ }            
+
+.table .card-box{
+
+     /* box-shadow: 0px 1px 12px rgba(0 ,0, 0 , 50% )  */
+}
+
+
+
+
+
+.about-text p{
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+.about-text .my-btn.btn:hover {
+    box-shadow: 0px 20px 20px 0px rgba(132, 144, 255, 0.3);
+}
+
+
+/* -----------team -section-------------- */
+
+
+
+.team-item {
+    margin-top: 90px;
+}
+.team-item .card img {
+    width: 100px;
+    height: auto;
+    margin-top: -70px;
+    margin-left: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      

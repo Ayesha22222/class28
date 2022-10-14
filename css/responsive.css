@@ -1,0 +1,72 @@
+
+@media (max-width:1200px){
+      /* --parsonal details-- */
+  .about-img.img-thumbnail {
+    margin-top: 30px;
+  }
+}
+
+ @media (max-width:992px){
+      /* --About Section-- */
+      .about-text {
+        margin-top: 150px;
+        text-align: center;
+      }
+
+        /* ----parsonal details---- */
+
+      .persona-about-text {
+        text-align: center;
+      }
+
+            /* -----tabel---- */
+      .number-counter.py-5 {
+        text-align: center;
+      }
+
+
+
+ }
+
+
+@media (max-width:768px){
+      /* --Form--- */
+  .contact-item.d-flex {
+       margin-left: 60px;
+  }
+
+    /* ---praing table---- */
+  .card-box {
+    margin-left: 70px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* parsonal details */
+
+@media(max-width:556px){
+  .slider-caption {
+      text-align: center;
+      margin-bottom: 90px;
+  }
+  .slider-caption-img{
+      display: none;
+  }
+  .about-text {
+    margin-top: 50px;
+    text-align: center;
+
+}
+
+
+
